@@ -2,25 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A data scientist who believe less is more  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hiya. I am Eugene Chan, a data scientist of a Toronto-based auto-finance start-up, managing a subteam of data analysts. After my undergrad in [`Hong Kong University of Science and Technology`](https://ais.hkust.edu.hk/), I pursued my AI postgraduate studies in [`Stanford University`].
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I was previously based in Hong Kong working for different capacities across Pan-asian and Global portfolios on:
+    - `Consulting`,
+    - `Maritime`,
+    - `Biopharmaceutical`,
+    - and lately, `Retail Finance`
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Bringing Art Education to everyone is always my dream and what I have been yearning to achieve with my life. I am an Art enthusiast and living with a belief that Art embodies the quality of human-being - we are of free-will to create our own stories and values. My favourite artists are `Claude Monet` and recently [`shumkwanyi`](https://www.instagram.com/arsimsim/). My favorite architect is `Kengo Kuma` (I have been collecting miniature of his work). My favourite and calm-me-down piece of music is [`Clair De Lune by Debussy`](https://www.youtube.com/watch?v=c977QdbTImU). Lately I am so astonished by film `Oppenheimer` by `Christopher Nolan`.
+
+Other Areas I could spend days and nights on:
+    - Education Equality
+    - Global politics and economy
+    - Innovations and Science
+    - Cats
