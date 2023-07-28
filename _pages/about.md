@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A data scientist who believe less is more  
+subtitle: A data scientist who believes less is more  
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hiya. I am Eugene Chan, a data scientist of a Toronto-based auto-finance start-up, managing a subteam of data analysts. After my undergrad in [`Hong Kong University of Science and Technology`](https://ais.hkust.edu.hk/), I pursued my AI postgraduate studies in [`Stanford University`](https://engineering.stanford.edu/).
+Hiya. I am Eugene Chan, a data scientist of a Toronto-based auto-finance start-up, managing a subteam of data analysts. After my undergrad in [`Hong Kong University of Science and Technology`](https://ais.hkust.edu.hk/), I pursued my AI postgraduate studies in [`Stanford University`](https://engineering.stanford.edu/), with concentration in `Natural Language Processing and LLMs` and `Graphical Neural Networks`.
 
 I was previously based in Hong Kong working for different capacities across Pan-asian and Global portfolios on:
   
@@ -38,5 +38,7 @@ Other Areas I could spend days and nights on:
     - Global politics and economy
   
     - Innovations and Science
+
+    - Language (learning German and Japanese now)
   
     - Cats
