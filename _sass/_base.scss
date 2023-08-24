@@ -2,6 +2,26 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// New About page header from ag-folio
+.post-header {
+  .profile {
+    img {
+      width: 25vw;
+    }
+  }
+
+  .desc {
+    color: var(--global-theme-color);
+  }
+
+  .address {
+    color: var(--global-text-color);
+
+    a {
+      color: var(--global-text-color);
+    }
+  }
+}
 // Typography
 
 p,
@@ -1034,3 +1054,4 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
