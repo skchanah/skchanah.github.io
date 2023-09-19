@@ -31,19 +31,19 @@ Having extensive experience in Python for data software engineering, I am fluent
 
 My hands-on machine learning applied research / optimization projects include:
 
-    - Heuristics (SVM, GAM, [EM](https://github.com/skchanah/SemiSupervisedEM/tree/main)) and Ensembles (XGBoost)
-    - Natural Language Processing (N-gram, seq-2-seq) and LLMs ([GPT](https://github.com/skchanah/MiniGPT), BART, BERT, RoBERTa, T5, StackLLaMA)
-    - Graphical Neural Network (GNN, GCN, GAT)
-    - Computer Vision (YOLO-3)
-    - Currently I am intrigued and motivated by [Large Language Models as Optimizers (Yang et al., 2023)](https://arxiv.org/pdf/2309.03409.pdf)
+- Heuristics (SVM, GAM, [EM](https://github.com/skchanah/SemiSupervisedEM/tree/main)) and Ensembles (XGBoost)  
+- Natural Language Processing (N-gram, seq-2-seq) and LLMs ([GPT](https://github.com/skchanah/MiniGPT), BART, BERT, RoBERTa, T5, StackLLaMA)
+- Graphical Neural Network (GNN, GCN, GAT)
+- Computer Vision (YOLO-3)
+- Currently I am intrigued and motivated by [Large Language Models as Optimizers (Yang et al., 2023)](https://arxiv.org/pdf/2309.03409.pdf)
 
 
 I was previously based in Hong Kong working for different capacities across Pan-asian and Global portfolios on:
   
-    - Consulting @[EY](https://www.ey.com/),
-    - Maritime @[Hutchison Ports](https://hutchisonports.com/en/),
-    - Biopharmaceutical @[Pfizer](https://www.pfizer.com/) @[Merck Group](https://www.merck.com/),
-    - And lately in Toronto, Retail Finance @[Source One Financial](https://sourceonefinancial.ca/)
+- Consulting @[EY](https://www.ey.com/),
+- Maritime @[Hutchison Ports](https://hutchisonports.com/en/),
+- Biopharmaceutical @[Pfizer](https://www.pfizer.com/) @[Merck Group](https://www.merck.com/),
+- And lately in Toronto, Retail Finance @[Source One Financial](https://sourceonefinancial.ca/)
 
 
 Bringing Art Education to everyone is always my dream and what I have been yearning to achieve with my life. I am an Art enthusiast (especially Asian Art) and a believer that Art embodies the quality of human-being - we are of free-will to create our own stories and values. My favourite artists are Claude Monet and recently [shumkwanyi](https://www.instagram.com/arsimsim/). My favorite architect is Kengo Kuma (I have been collecting miniature of his work). My favourite and calm-me-down piece of music is [Clair De Lune by Debussy](https://www.youtube.com/watch?v=c977QdbTImU). Lately I am so astonished by film Oppenheimer by Christopher Nolan.
@@ -54,8 +54,8 @@ Being a big language nerd, I am currently picking up my German and Japanese in t
 
 Other Areas I could spend days and nights on:
   
-    - Environment, Sustainability and Behavioural Sciences
-    - Education Equality
-    - Global Politics and Economy
-    - Innovations and Science
-    - Cats
+- Environment, Sustainability and Behavioural Sciences
+- Education Equality
+- Global Politics and Economy
+- Innovations and Science
+- Cats
