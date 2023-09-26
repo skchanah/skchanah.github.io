@@ -38,11 +38,11 @@ My hands-on machine learning applied research / optimization projects include:
 - Currently I am intrigued and motivated by [Large Language Models as Optimizers (Yang et al., 2023)](https://arxiv.org/pdf/2309.03409.pdf)
 
 
-I was previously based in Hong Kong working for different capacities across Pan-asian and Global portfolios on:
+I was previously based in Hong Kong working for different capacities across Pan-asian and Global portfolios in:
   
-- Consulting @[EY](https://www.ey.com/),
-- Maritime @[Hutchison Ports](https://hutchisonports.com/en/),
-- Biopharmaceutical @[Pfizer](https://www.pfizer.com/) @[Merck Group](https://www.merck.com/),
+- Consulting @[EY](https://www.ey.com/) for Greater China coverage,
+- Maritime @[Hutchison Ports](https://hutchisonports.com/en/) for Global coverage,
+- Biopharmaceutical @[Pfizer](https://www.pfizer.com/) @[Merck Group](https://www.merck.com/) for Asia coverage,
 - And lately in Toronto, Retail Finance @[Source One Financial](https://sourceonefinancial.ca/)
 
 
