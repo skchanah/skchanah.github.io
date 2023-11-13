@@ -2,96 +2,135 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Eugene Sui Ki Chan
+    - name: Nationality
+      value: British; Hong Kong Chinese
+    - name: Current Residency
+      value: Toronto, Ontario, Canada
     - name: Languages
-      value: English, German
+      value: English (Native), Mandarin (Native), Cantonese (Native), German (Limited Professional Proficiency), Japanese (Limited Professional Proficiency)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: <a href="https://digitalcredential.stanford.edu/check/FFE58134FC36A6B5D7E56D24C5C9D1C0F3116CE485A25D34B75FBDBA853EBE69U2pNOGdmME51Mkh0T0V4VnJqNjNUZ3RSM3NLWWNRVjhuSmFhK2xhK2gva2NmeXY0">Postgraduate Studies</a>
+      institution: Stanford University, Stanford, California, United States
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Artificial Intelligence
+        - title: Course Higlights
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+          - CS229 Machine Learning
+          - CS224N Natural Language Processing
+          - CS229W Graphical Neural Network
+    - title: BSc in Environmental Management and Technology, conferred by Academy of Interdisciplinary Studies
+      institution: Hong Kong University of Science and Technology
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Clean Technology and Sustainable Business
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Data Scientist & Data Manager
+      institution: Source One Financial; Toronto, Ontario, Canada
+      year: 2023.01 - 2023.09
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - title: Data Science & Machine Learning Projects
+          content:
+            - RoBERTa-base keywords & intention identification model for alternative data (call transcripts and text notes), equivalent to 20 man-hours weekly saving.
+            - XGBoost-powered CAD 28M bad debt selling,  along with sell side due-diligence and buy-side relationship management; recorded recovery ~15%.
+        - Coached a sub-team of 2 junior data analysts to manage >100 daily EDWs, ETL RPAs, models and QlikSense dashboards, for operation researches in fraud detection, revenue excellence, CRM partnership, credit and income, funding and booking processes, debt sales, etc. 
+        - Spearheaded revenue maximization strategy and negotiation with external CS/Collection partners. Leveraged credit and behavioural metadata to identify potential revenue verticals and successfully reduced ~20% of 31+ days delinquency.
+        - Partnered with C-suits, Sales, Operations, Credit and Finance teams on data project consulting, data-driven decision making and any ad hoc business questions.
+    - title: Data Scientist & Interim Data Analytics Manager (Seconded)
+      institution: Source One Financial; Toronto, Ontario, Canada
+      year: 2022.09 - 2023.01
+
+    - title: Pricing and Analytics Specialist, Advanced Analytics
+      institution: Merck Sharp Dohme (Merck & Co.); Hong Kong SAR, China 
+      year: 2021.08 - 2022.06
       description:
-        - Description 1.
-        - Description 2.
+        - title: Data Science & Machine Learning Projects
+          content:
+            - XGBoost digital segmentation for all customer accounts (>30,000) via SageMaker.
+            - Marketing data (MarTech) ventures on social listening, advertisement placement, cross-channel A/B testing and performance marketing automations on a flagship franchise to bring over 30% YOY growth in Lead.
+            - Greedy learning (XGBoost, SVM and GAM), Epsilon Greedy and Statistics (Thompson Sampling) for cross-functional policy and pricing researches (~ USD YOY 1B revenue generators); pitched up to kick start an experimental pricing initiative supported by DataIku framework and QlikSense dashboards. 
+        - Co-evolved APAC data ecosystem from data governance, interfacing, ETL, RPAs to pilot prediction algorithms, business intelligence and storytelling, and coordinated data pipeline development with > 200 sales & marketing teammates, regional-level data engineers, external data owners and service providers. 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Associate, Data Science 
+      institution: Pfizer; Hong Kong SAR, China
+      year: 2021.01 - 2021.07
       description:
+        - title: Data Science & Machine Learning Projects
+          content:
+            - XGBoost customer segregation algorithm for performance marketing of omni-channel flagship campaigns media buy, social media and music platforms.
+            - Training and testing support of a global YOLO-3-powered computer vision product for a rare disease, pioneering in the Asia Pacific (> 10 countries). 
+        - Assisted Asia Pacific management to drive a half-year strategy change management via customer analysis and segmentation via XGBoost tree analysis, KPIs and MBOs setting, competitor analysis and idiosyncratic country capability development plans, reshaping work for >2,000 colleagues in 10 Asia countries and reduced ~20% work hours.
+        - Led FP&A automation, local analytics, data mining and internal consulting, as an one-year interim Insight Lead and Information Security Officer. Co-led implementation of a cross-market Salesforce backed ecosystem (pioneer of 10 Emerging Asia countries), which consists of data lake, enterprise data warehouses (GCP, Azure), APIs, Adobe Analytics platform, customer facing CRMs and built-in business intelligence, with >100 Billion row daily data refresh.
+    - title: Graduate Trainee, Data Science and Analytics 
+      institution: Pfizer; Emerging Asia
+      year: 2019.07-2021.01
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Environmental Management Analyst, Global Group Operations (Part-time)
+      institution: Hutchison Ports; Hong Kong SAR, China
+      year: 2019.02 - 2019.07
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Financial Accounting Advisory Intern
+      institution: Ernst and Young; Greater China
+      year: 2017.07 - 2017.12
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+#- title: Education
+#  type: time_table
+#  contents:
+#    - title: Postgraudate
+#      institution: Stanford University, Stanford, California, United States
+#      year: 2022
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+#    - title: Federal teaching diploma
+#      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#      year: 1900
+#      description:
+#        - Description 1.
+#        - Description 2.
