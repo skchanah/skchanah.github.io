@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: Here are the projects I have been working on.
-nav: true
+nav: false
 nav_order: 3
 ---
 
