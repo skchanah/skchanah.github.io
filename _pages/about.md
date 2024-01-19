@@ -35,7 +35,7 @@ My hands-on machine learning applied research / optimization projects include:
 - Natural Language Processing (N-gram, seq-2-seq) and LLMs ([GPT](https://github.com/skchanah/MiniGPT), BART, BERT, RoBERTa, T5, StackLLaMA)
 - Graphical Neural Network (GNN, GCN, GAT)
 - Computer Vision (YOLO-3)
-- Currently I am intrigued and motivated by [Large Language Models as Optimizers (Yang et al., 2023)](https://arxiv.org/pdf/2309.03409.pdf)
+- Currently I am intrigued and motivated by [Large Language Models as Optimizers (Yang et al., 2023)](https://arxiv.org/pdf/2309.03409.pdf) and [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Gu and Dao, 2023)](https://arxiv.org/abs/2312.00752.pdf)
 
 
 I was previously based in Hong Kong working for different capacities across Pan-asian and Global portfolios in:
