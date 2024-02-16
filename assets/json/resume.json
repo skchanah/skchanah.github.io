@@ -157,6 +157,11 @@
   "awards": [],
   "certificates": [
     {
+      "name": "Introduction to Linux ",
+      "issuer": "Linux Foundation",
+      "date": "2024"
+    },
+    {
       "name": "Fundamentals of Accelerated Computing with CUDA C/C++",
       "issuer": "NVIDIA",
       "date": "2023"
