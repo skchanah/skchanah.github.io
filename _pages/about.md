@@ -2,20 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Data Scientist. AI & Machine Learning Engineer. <br> EX - Corporate Internal Consultant."
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>BSc - Hong Kong University of Science and Technology<br>
-    Postgrad Cert - Stanford University</p>
-    <br><br>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -60,3 +60,4 @@ Other Areas I could spend days and nights on:
 - Global Politics and Economy
 - Innovations and Science
 - Cats
+
