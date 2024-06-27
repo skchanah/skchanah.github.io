@@ -157,6 +157,26 @@
   "awards": [],
   "certificates": [
     {
+      "name": "AWS Certified Machine Learning - Specialty",
+      "issuer": "AWS",
+      "date": "2024"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "date": "2024"
+    },
+    {
+      "name": "Databricks Certified Associate Developer for Apache Spark",
+      "issuer": "Databricks",
+      "date": "2024"
+    },
+    {
+      "name": "Academy Accreditation - Generative AI Fundamentals",
+      "issuer": "Databricks",
+      "date": "2024"
+    },
+    {
       "name": "Introduction to Linux ",
       "issuer": "Linux Foundation",
       "date": "2024"
@@ -190,7 +210,7 @@
     },
     {
       "name": "Data Frameworks",
-      "keywords": ["DataIku", "Huggingface API", "OpenAI API", "CUDA (C++, Python)", "Databricks", "AWS Redshift and SageMaker", "BigQuery", "Azure Lab", "Snowflake", "Hadoop", "Docker", "Kubernetes"]
+      "keywords": ["DataIku", "Huggingface API", "OpenAI API", "CUDA (C++, Python)", "Databricks", "AWS Cloud", "BigQuery", "Azure Lab", "Snowflake", "Hadoop", "Docker", "Kubernetes"]
     },
     {
       "name": "Business Intelligence",
