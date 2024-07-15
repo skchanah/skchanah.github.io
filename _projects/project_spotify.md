@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Spotify Top Songs (on-going)
-description: Analysis on attributes to make Spotify Top Megahits 
+title: Spotify Top Songs
+description: Analysis on attributes to make Spotify Top Megahits. 
 img: assets/img/spotify.jpeg
-redirect: https://github.com/skchanah/spotify_top_songs
+redirect: https://nbviewer.org/github/skchanah/spotify_top_songs/blob/main/spotify_top_songs.ipynb
 importance: 1
 category: Data Science
 ---

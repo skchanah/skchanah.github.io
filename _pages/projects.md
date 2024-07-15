@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here are the projects I have been working on.
+description: Here are some projects I have been working on.
 nav: true
 nav_order: 2
 display_categories: [Machine Learning, Data Science]

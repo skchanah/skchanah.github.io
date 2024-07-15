@@ -6,7 +6,7 @@ subtitle: "Data Scientist. AI & Machine Learning Engineer. <br> EX - Corporate I
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>BSc - Hong Kong University of Science and Technology<br>
@@ -31,7 +31,7 @@ Having extensive experience in Python for data software engineering, I am fluent
 My hands-on machine learning applied research / optimization projects include:
 
 - Heuristics (SVM, GAM, [EM](https://github.com/skchanah/SemiSupervisedEM/tree/main)) and Ensembles (XGBoost)  
-- Natural Language Processing (N-gram, seq-2-seq) and LLMs ([GPT](https://github.com/skchanah/MiniGPT), BART, BERT, RoBERTa, T5, StackLLaMA)
+- Natural Language Processing (N-gram, seq-2-seq) and LLMs ([GPT series](https://github.com/skchanah/MiniGPT), BART, BERT, RoBERTa, T5, LLaMA series via StackLLaMA & Ollama, RAG via LangChain & GraphRAG)
 - Graphical Neural Network (GNN, GCN, GAT)
 - Deep Generative Network (VAE, GAN, Diffusion)
 - Computer Vision (YOLO-3)
