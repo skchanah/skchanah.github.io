@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hiya. I am Eugene Chan, a data scientist + machine learning engineer in Toronto. 
+Hiya. I am Eugene Chan, a data scientist + machine learning engineer in Toronto. Currently I just finished [QClass24/25 501-2](https://qworld.net/qclass24-25/), a postgrad level quantum computing course co-organised by QWorld and University of Latvia. You can also find me joining the daily ML paper discussion [`here`](https://discord.com/channels/714501525455634453/1045297868136779846).
 
 
 After my undergrad in [`Hong Kong University of Science and Technology`](https://ais.hkust.edu.hk/), I pursued my AI postgraduate studies in [`Stanford University`](https://engineering.stanford.edu/), with concentration in `Natural Language Processing and LLMs` and `Graphical Neural Networks`.
@@ -35,7 +35,7 @@ My hands-on machine learning applied research / optimization projects include:
 - Graphical Neural Network (GNN, GCN, GAT)
 - [Deep Generative Network](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) (VAE, GAN, Diffusion)
 - Computer Vision (YOLO-3)
-- Currently I am intrigued and motivated by [Large Language Models as Optimizers (Yang et al., 2023)](https://arxiv.org/pdf/2309.03409.pdf) and [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Gu and Dao, 2023)](https://arxiv.org/abs/2312.00752.pdf)
+- Currently I am intrigued and motivated by [Large Language Models as Optimizers (Yang et al., 2023)](https://arxiv.org/pdf/2309.03409.pdf) 
 
 
 I was previously based in Hong Kong working for different capacities across Pan-asian and Global portfolios in:
@@ -46,7 +46,7 @@ I was previously based in Hong Kong working for different capacities across Pan-
 - And lately in Toronto, Retail Finance @[Source One Financial](https://sourceonefinancial.ca/)
 
 
-Bringing Art Education to everyone is always my dream and what I have been yearning to achieve with my life. I am an Art enthusiast (especially Asian Art) and a believer that Art embodies the quality of human-being - we are of free-will to create our own stories and values. My favourite artists are Claude Monet and recently [shumkwanyi](https://www.instagram.com/arsimsim/). My favorite architect is Kengo Kuma (I have been collecting miniature of his work). My favourite and calm-me-down piece of music is [Clair De Lune by Debussy](https://www.youtube.com/watch?v=c977QdbTImU). Lately I am so astonished by film Oppenheimer by Christopher Nolan.
+Bringing Art Education to everyone is always my dream and what I have been yearning to achieve with my life. I am a cinaphile, an Art enthusiast (especially Asian Art) and a believer that Art embodies the quality of human-being - we are of free-will to create our own stories and values. My favourite artists are Claude Monet and recently [shumkwanyi](https://www.instagram.com/arsimsim/). My favorite architect is Kengo Kuma (I have been collecting miniature of his work). My favourite and calm-me-down piece of music is [Clair De Lune by Debussy](https://www.youtube.com/watch?v=c977QdbTImU). Lately I am so astonished by film Oppenheimer by Christopher Nolan.
 
 
 Being a big language nerd, I am currently picking up my German and Japanese in the meantime of learning Arabic. 
@@ -54,6 +54,7 @@ Being a big language nerd, I am currently picking up my German and Japanese in t
 
 Other Areas I could spend days and nights on:
   
+- Quantum Computing
 - Environment, Sustainability and Behavioural Sciences
 - Education Equality
 - Healthcare
