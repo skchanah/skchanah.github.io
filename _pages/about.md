@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hiya. I am Eugene Chan, a data scientist + machine learning engineer in Toronto. Currently I just finished [QClass24/25 501-2](https://qworld.net/qclass24-25/), a postgrad level quantum computing course co-organised by QWorld and University of Latvia. You can also find me joining the daily ML paper discussion [`here`](https://discord.com/channels/714501525455634453/1045297868136779846).
+Hiya. I am Eugene Chan, a data scientist + machine learning engineer in Toronto. Currently I just finished [QClass24/25 501-2](https://qworld.net/qclass24-25/), a postgrad level quantum computing course co-organised by QWorld and University of Latvia. You can also find me joining the daily ML paper discussion [here](https://discord.com/channels/714501525455634453/1045297868136779846).
 
 
 After my undergrad in [`Hong Kong University of Science and Technology`](https://ais.hkust.edu.hk/), I pursued my AI postgraduate studies in [`Stanford University`](https://engineering.stanford.edu/), with concentration in `Natural Language Processing and LLMs` and `Graphical Neural Networks`.
